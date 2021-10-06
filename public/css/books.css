@@ -1,0 +1,29 @@
+/* CSS klase koje cete koristiti u kodu */
+
+.alert {
+    width: 20em;
+    height: 17em;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-right: 2em;
+}
+
+.alert form {
+    position: absolute;
+    bottom: 2em;
+    width: 80%;
+    margin: auto;
+}
+
+.alert-warning {
+    height: 7em;
+}
+
+/* CSS pravila koja "ulepsavaju" izgled stranice */
+
+nav {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    z-index: 1;
+}

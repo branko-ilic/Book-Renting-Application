@@ -1,0 +1,27 @@
+{
+  "_id": {
+    "$oid": "5f396300303c6738ec9bc9b2"
+  },
+  "numOfCopies": 1,
+  "name": "Practical Node.js",
+  "authors": "Azat Mardan",
+  "__v": 0
+}
+{
+  "_id": {
+    "$oid": "5f39632a303c6738ec9bc9b3"
+  },
+  "numOfCopies": 1,
+  "name": "Serverless Applications with Node.js",
+  "authors": "Aleksandar Simovic\r\nSlobodan Stojanovic",
+  "__v": 0
+}
+{
+  "_id": {
+    "$oid": "5f39635c303c6738ec9bc9b4"
+  },
+  "numOfCopies": 2,
+  "name": "Web Development with MongoDB and Node.js",
+  "authors": "Jason Krol",
+  "__v": 0
+}
